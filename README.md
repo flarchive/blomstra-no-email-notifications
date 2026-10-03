@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of blomstra/no-email-notifications.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/no-email-notifications) or the [upstream repository](https://github.com/blomstra/flarum-ext-no-email-notifications).
 
-**0** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/blomstra-no-email-notifications/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`0.1.0`](https://github.com/flarchive/blomstra-no-email-notifications/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-11-02 | `^1.0.0` | [Browse](https://github.com/flarchive/blomstra-no-email-notifications/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/blomstra-no-email-notifications.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-no-email-notifications.json)
 
